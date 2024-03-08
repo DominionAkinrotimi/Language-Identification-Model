@@ -6,7 +6,7 @@ Welcome to the Language Identification Model project! This repository showcases 
 
 ## Project Structure
 
-- **`/Language Detection.ipynb`**: Jupyter notebook containing the project's code with detailed explanations and visualizations.
+- **`Language Detection.ipynb`**: Jupyter notebook containing the project's code with detailed explanations and visualizations.
 - **`Language_Detection.py`**: Python script with a graphical user interface (GUI) for easy text input and language detection.
 - **`Language_Detection.csv`**: Dataset used for training and testing the language identification model.
 
