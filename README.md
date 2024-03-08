@@ -6,8 +6,8 @@ Welcome to the Language Identification Model project! This repository showcases 
 
 ## Project Structure
 
-- **`language_identification.ipynb`**: Jupyter notebook containing the project's code with detailed explanations and visualizations.
-- **`language_identification_gui.py`**: Python script with a graphical user interface (GUI) for easy text input and language detection.
+- **`Language Detection.ipynb`**: Jupyter notebook containing the project's code with detailed explanations and visualizations.
+- **`Language_Detection.py`**: Python script with a graphical user interface (GUI) for easy text input and language detection.
 - **`Language_Detection.csv`**: Dataset used for training and testing the language identification model.
 
 ## Getting Started
@@ -22,10 +22,10 @@ pip install scikit-learn pandas nltk
 
 ### Running the Jupyter Notebook
 
-Explore the detailed implementation and analysis in `language_identification.ipynb`.
+Explore the detailed implementation and analysis in `Language Detection.ipynb`
 
 ```bash
-jupyter notebook language_identification.ipynb
+jupyter notebook Language Detection.ipynb
 ```
 
 ### Running the GUI Application
@@ -33,7 +33,7 @@ jupyter notebook language_identification.ipynb
 Execute the GUI script to experience real-time language detection.
 
 ```bash
-python language_identification.py
+python Language_Detection.py
 ```
 
 ## Project Workflow
